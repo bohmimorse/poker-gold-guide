@@ -1,2 +1,14 @@
 # poker-gold-guide
-HTML page archive and documentation
+
+仓库页面索引说明
+
+本仓库保存页面发布过程中生成的文件，便于统一归档。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 访问备注
+
+GitHub Pages 生效可能需要短暂等待，实际状态以访问结果为准。
